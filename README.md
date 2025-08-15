@@ -119,7 +119,7 @@ We aim to build a **frontend + backend** system with the following:
 | ------------ | ------------------------------------------------------------------------------------------------- |
 | **main**     | Require PR (2 approvals), Restrict deletions, Block force pushes, Require conversation resolution |
 | **dev**      | Require PR (1 approval), Restrict deletions, Block force pushes, Require conversation resolution  |
-| **feature/** | Restrict deletions only                                                                           |
+                                                                       |
 
 ---
 
