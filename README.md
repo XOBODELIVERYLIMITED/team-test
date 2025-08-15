@@ -1,5 +1,4 @@
 ```markdown
-# My Fullstack Project
 
 ## 📌 Overview
 This repository contains a **fullstack web application** with a separate **frontend** and **backend**.  
